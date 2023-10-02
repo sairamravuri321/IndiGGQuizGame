@@ -1,5 +1,5 @@
 # IndiGG
-A simple Quiz Application using HTML , CSS and JavaScript.
+A simple Quiz Application using HTML , CSS and JavaScript with Timer.
 
 To create this program (Quiz Application with Timer). First, you need to create four Files one HTML File, CSS File and the other two are JavaScript files.
 
