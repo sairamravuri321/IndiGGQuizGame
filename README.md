@@ -23,3 +23,8 @@ If the user doesn’t select an option between 15 to 0 sec, the timer will be st
 
 In the end, the result box will be appeared and shown the user score and two buttons [Replay Quiz, Quit Quiz], if the user clicked on the replay quiz button, the quiz will again start with the number 1 question, and the score of the user will be 0 but if the user clicked on the quit quiz button, the current window will be reloaded and the quiz starts from the begin.
 
+
+Live Quiz :
+
+https://sairamravuri321.github.io/IndiGGQuizGame/
+
